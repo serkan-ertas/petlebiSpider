@@ -3,7 +3,7 @@
 ## scrapping
 run this command in CLI:
 
-    scrapy runspider <python_file_path> -o <product_name>.json
+    scrapy runspider <spider_path> -o <product_name>.json
 
 ## writing the data to MySQL table
 run import_products.py file
